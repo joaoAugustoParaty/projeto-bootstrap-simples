@@ -1,0 +1,9 @@
+.imagem-carrossel {
+    object-fit: cover; /* Ajudsta a imagem */
+    object-position: 0 80%; /*Move a imagem */
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
