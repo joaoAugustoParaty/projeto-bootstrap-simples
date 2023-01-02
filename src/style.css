@@ -11,3 +11,17 @@
 .cor-especial{
     color: darkred;
 }
+
+.botao-cor-especial {
+    background-color: darkred; 
+    color: white;
+}
+
+.botao-cor-especial:hover {
+    background-color: white; 
+    color: darkred;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
